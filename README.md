@@ -21,11 +21,9 @@ Supported browsers:
 ### Install from Raw GitHub URL
 
 1.	Install Tampermonkey from your browser extensions store
-2.	Open the file `raiplay-force-1080p.user.js` from this repository
-3.	Click Raw
-4.	Tampermonkey will detect the script
+2.	Click [HERE](https://github.com/rgiorgiotech/RaiPlay-force-1080p/raw/refs/heads/main/raiplay-force-1080p.user.js), Tampermonkey will detect the script
 5.	Click Install
-6.	Refresh any RaiPlay page
+6.	Refresh or open any RaiPlay page
 
 ---
 
